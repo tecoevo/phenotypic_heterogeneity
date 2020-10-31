@@ -8,3 +8,8 @@ This repository contains the basic codes for reproducing the primary figures in 
 "Memory shapes microbial populations" 
 
 Chaitanya S. Gokhale, Stefano Giaimo, and Philippe Remigi
+
+
+## ToDo
+
+- add description of each file
